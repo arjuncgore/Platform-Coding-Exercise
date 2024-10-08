@@ -39,5 +39,7 @@ If I had more time to work on this, I would try to arrange the data in a table f
 Additionally, if I had access to further libraries, I would have either created a Tkinter GUI to make a Wikipedia-esc application, or made the printed outputs in the format of a printed database.
 
 ## Platform
-This project made me extremely excited to work with the Platform Integration and Automation team at Stevens. I've never had the opportunity to answer such an open-ended question to show off my skills, but it really played to my competitive personality. I found this work extremely fulfilling, and it was genuinely something I enjoyed programming. 
+This project made me extremely excited to work with the Platform Integration and Automation team at Stevens. I've never had the opportunity to answer such an open-ended question to show off my skills, but it really played to my competitive personality. I found this work extremely fulfilling, and it was genuinely something I enjoyed programming. I was very intrigued in my interview with Mr Alexis Watson about what Platform does at Stevens, and I hope my addition would be a big help to the team.
+
 I really hope this project showcased my coding prowess well, and I get the opportunity to work with you!
+
